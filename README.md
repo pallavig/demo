@@ -10,14 +10,7 @@
      $ mkdir -p /usr/local/data/tmt/movies/input
      $ mkdir -p /usr/local/data/tmt/movies/output
      ```
-
-     ```sh
-     $ mkdir -p /usr/local/data/tmt/frames/input  
-     $ mkdir -p /usr/local/data/tmt/frames/output  
-     $ mkdir -p /usr/local/data/tmt/movies/input  
-     $ mkdir -p /usr/local/data/tmt/movies/output
-     ```
-- Copy images in ```/usr/local/data/tmt/frames/input``` directory.
+- Copy images in `/usr/local/data/tmt/frames/input` directory.
 - Copy movies in ```/usr/local/data/tmt/movies/input``` directory.
 
 
