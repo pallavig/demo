@@ -10,13 +10,9 @@
      $ mkdir -p /usr/local/data/tmt/movies/input
      $ mkdir -p /usr/local/data/tmt/movies/output
      ```
+
 - Copy images in `/usr/local/data/tmt/frames/input` directory.
 - Copy movies in ```/usr/local/data/tmt/movies/input``` directory.
-
-
-```sh
-$ npm install --save-dev grunt-shell
-```
 
 #### Steps for running tests
 -------------------------
