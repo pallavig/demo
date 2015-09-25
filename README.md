@@ -13,6 +13,11 @@
 - Copy images in ```/usr/local/data/tmt/frames/input``` directory.
 - Copy movies in ```/usr/local/data/tmt/movies/input``` directory.
 
+
+```sh
+$ npm install --save-dev grunt-shell
+```
+
 #### Steps for running tests
 -------------------------
 * Goto the project directory.
