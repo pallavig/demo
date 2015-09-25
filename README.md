@@ -19,8 +19,12 @@
 * Goto the project directory.
 * Checkout the demo branch of the project. 
      ```sh
+     $ npm install --save-dev grunt-shell
+     ```
+     ```sh
 	 $ git checkout demo
      ```
+     
 * Get all dependencies. 
      ```sh
      $ ./activator update
