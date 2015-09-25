@@ -19,20 +19,19 @@
 * Goto the project directory.
 * Checkout the demo branch of the project. 
      ```sh
-     $ npm install --save-dev grunt-shell
+     $ git checkout demo
      ```
-     ```sh
-	 $ git checkout demo
-     ```
-     
+
 * Get all dependencies. 
      ```sh
      $ ./activator update
      ```
+
 * Compile the project.
      ```sh
      $ ./activator compile
      ```
+
 * Run tests. 
      ```sh
      $ ./activator test
