@@ -5,6 +5,13 @@
 -------------------------
 - Create directory structure using following commands :-     
      ```sh
+     $ mkdir -p /usr/local/data/tmt/frames/input
+     $ mkdir -p /usr/local/data/tmt/frames/output
+     $ mkdir -p /usr/local/data/tmt/movies/input
+     $ mkdir -p /usr/local/data/tmt/movies/output
+     ```
+
+     ```sh
      $ mkdir -p /usr/local/data/tmt/frames/input  
      $ mkdir -p /usr/local/data/tmt/frames/output  
      $ mkdir -p /usr/local/data/tmt/movies/input  
