@@ -5,15 +5,9 @@
 
 * Create directory structure using following commands :-     
      ``` 
-     $ mkdir -p /usr/local/data/tmt/frames/input
-     ```
-     ```
-     $ mkdir -p /usr/local/data/tmt/frames/output
-     ```
-     ```
-     $ mkdir -p /usr/local/data/tmt/movies/input
-     ```
-     ```
+     $ mkdir -p /usr/local/data/tmt/frames/input  
+     $ mkdir -p /usr/local/data/tmt/frames/output  
+     $ mkdir -p /usr/local/data/tmt/movies/input  
      $ mkdir -p /usr/local/data/tmt/movies/output
      ```
 * Copy images in ```/usr/local/data/tmt/frames/input``` directory.
