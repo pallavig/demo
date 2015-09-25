@@ -20,23 +20,23 @@
 
 #### Steps for running tests
 -------------------------
-* Goto the project directory.
-* Checkout the demo branch of the project. 
+- Goto the project directory.
+- Checkout the demo branch of the project. 
      ```sh
      $ git checkout demo
      ```
 
-* Get all dependencies. 
+- Get all dependencies. 
      ```sh
      $ ./activator update
      ```
 
-* Compile the project.
+- Compile the project.
      ```sh
      $ ./activator compile
      ```
 
-* Run tests. 
+- Run tests. 
      ```sh
      $ ./activator test
      ```
