@@ -2,7 +2,7 @@
 ## Streaming library
 
 ### Steps for data setup
-===========================
+-------------------------
 - Create directory structure using following commands :-     
      ``` 
      $ mkdir -p /usr/local/data/tmt/frames/input  
@@ -14,7 +14,7 @@
 - Copy movies in ```/usr/local/data/tmt/movies/input``` directory.
 
 ### Steps for running tests
-===========================
+-------------------------
 * Goto the project directory.
 * Checkout the demo branch of the project. 
      ```
